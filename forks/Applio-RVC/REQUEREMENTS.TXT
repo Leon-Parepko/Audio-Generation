@@ -1,0 +1,15 @@
+Python 3.9.8
+
+torch
+ffmpeg
+fairseq
+requests
+faiss
+gradio
+numpy
+regex
+soundfile
+dotenv
+sklearn
+nltk
+scipy
