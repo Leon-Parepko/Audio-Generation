@@ -1,7 +1,9 @@
 auto_commit.sh
 .idea
-forks/Applio-RVC/assets
-forks/Applio-RVC/ffmpeg.exe
-forks/Applio-RVC/ffprobe.exe
-forks/Applio-RVC/torchcrepe/assets
-forks/Applio-RVC/README.md
+RVC/assets
+RVC/ffmpeg.exe
+RVC/ffprobe.exe
+RVC/torchcrepe/assets
+RVC/README.md
+data
+weights
